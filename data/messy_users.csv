@@ -1,0 +1,5 @@
+user_id,name,email,signup_date,spending_score
+1,  alice smith ,alice@example.com,2024-01-15,85
+2,BOB JONES,,2024-02-01,NULL
+3, Charlie Brown ,charlie@test.com,,92
+4,DAVID WILSON,david@example.com,2024-03-10,45

@@ -1,0 +1,4 @@
+user_id,name,email,spending_score
+3,Charlie Brown,charlie@test.com,92.0
+1,Alice Smith,alice@example.com,85.0
+2,Bob Jones,unknown@example.com,0.0
