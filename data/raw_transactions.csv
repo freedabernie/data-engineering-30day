@@ -1,0 +1,7 @@
+transaction_id,user_id,amount,category,status
+101,1,45.50,Groceries,Completed
+102,2,120.00,Electronics,Completed
+103,1,15.00,Groceries,Pending
+104,3,200.00,Travel,Completed
+105,2,50.00,Groceries,Completed
+106,4,85.20,Electronics,Failed
